@@ -1,0 +1,1 @@
+x = 1+2; # This should print 3.
